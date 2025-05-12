@@ -225,6 +225,20 @@ header #logo{
     margin-top: 5px;
 }
 
+    /*Localiza*/
+
+#mapid{
+    height: 600px;
+    width: 1000px;
+    border-radius: 50%;
+    margin-left: 200px;
+
+}
+
+#localizacao{
+    margin-top: 10px;
+    font-weight: 600;
+}
 
 
 
